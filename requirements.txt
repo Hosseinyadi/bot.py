@@ -1,0 +1,6 @@
+python-telegram-bot==13.15
+requests
+flask
+feedparser
+google-generativeai
+matplotlib
